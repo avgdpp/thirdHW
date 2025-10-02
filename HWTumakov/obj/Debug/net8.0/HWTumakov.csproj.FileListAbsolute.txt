@@ -1,0 +1,14 @@
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\bin\Debug\net8.0\HWTumakov.exe
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\bin\Debug\net8.0\HWTumakov.deps.json
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\bin\Debug\net8.0\HWTumakov.runtimeconfig.json
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\bin\Debug\net8.0\HWTumakov.dll
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\bin\Debug\net8.0\HWTumakov.pdb
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\obj\Debug\net8.0\HWTumakov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\obj\Debug\net8.0\HWTumakov.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\obj\Debug\net8.0\HWTumakov.AssemblyInfo.cs
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\obj\Debug\net8.0\HWTumakov.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\obj\Debug\net8.0\HWTumakov.dll
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\obj\Debug\net8.0\refint\HWTumakov.dll
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\obj\Debug\net8.0\HWTumakov.pdb
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\obj\Debug\net8.0\HWTumakov.genruntimeconfig.cache
+C:\Users\kiril\source\repos\thirdHW\HWTumakov\obj\Debug\net8.0\ref\HWTumakov.dll

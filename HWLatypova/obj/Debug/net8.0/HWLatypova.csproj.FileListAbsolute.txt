@@ -1,0 +1,14 @@
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\bin\Debug\net8.0\HWLatypova.exe
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\bin\Debug\net8.0\HWLatypova.deps.json
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\bin\Debug\net8.0\HWLatypova.runtimeconfig.json
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\bin\Debug\net8.0\HWLatypova.dll
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\bin\Debug\net8.0\HWLatypova.pdb
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\obj\Debug\net8.0\HWLatypova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\obj\Debug\net8.0\HWLatypova.AssemblyInfoInputs.cache
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\obj\Debug\net8.0\HWLatypova.AssemblyInfo.cs
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\obj\Debug\net8.0\HWLatypova.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\obj\Debug\net8.0\HWLatypova.dll
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\obj\Debug\net8.0\refint\HWLatypova.dll
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\obj\Debug\net8.0\HWLatypova.pdb
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\obj\Debug\net8.0\HWLatypova.genruntimeconfig.cache
+C:\Users\kiril\source\repos\thirdHW\HWLatypova\obj\Debug\net8.0\ref\HWLatypova.dll
